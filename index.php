@@ -59,7 +59,7 @@ $resultado = $conexion->query('SELECT * FROM equipos ORDER BY id DESC');
 <body>
     <header>
         <h1>🖥️ Registro de Equipos</h1>
-        <p>Centro de Cómputos · versión 1.0</p>
+        <p>Centro de Cómputos · versión 2.0</p>
     </header>
 
     <main>
